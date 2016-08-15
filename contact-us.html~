@@ -1,11 +1,11 @@
 <!doctype html>
 <html class="no-js" lang="en">
     <head>
-        <title>Home | East Africa Child Rights Trust Network (EACR)</title>
+        <title>Contact Us | East Africa Child Rights Trust Network (EACR)</title>
         <meta name="description" content="East Africa Child Rights Trust Network (EACR)">
         <meta name="keywords" content="">
         <meta charset="utf-8">
-        <meta name="author" content="MUSA" >
+        <meta name="author" content="Dianga Michael">
         <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
         <!-- favicon -->
         <link rel="shortcut icon" href="images/favicon.png">
@@ -44,7 +44,7 @@
 
     </head>
     <body>
-        <!-- navigation panel -->
+            <!-- navigation panel -->
         <nav class="navbar navbar-default navbar-fixed-top nav-transparent overlay-nav sticky-nav nav-border-bottom bg-white" role="navigation">
             <div class="container">
                 <div class="row">
@@ -65,7 +65,7 @@
                                 <!-- end menu item -->
                                 <!-- menu item -->
                                 <li class="dropdown panel">
-                                    <a href="#collapse4" class="dropdown-toggle collapsed" data-toggle="collapse" data-parent="#accordion" data-hover="dropdown">E.A.C.R Members <i class="fa fa-angle-down"></i></a>
+                                    <a href="#collapse4" class="dropdown-toggle collapsed" data-toggle="collapse" data-parent="#accordion" data-hover="dropdown">E.A.C.R.N Members <i class="fa fa-angle-down"></i></a>
                                     <!-- sub menu -->
                                     <ul id="collapse5" class="dropdown-menu mega-menu panel-collapse collapse mega-menu-full">
                                         <!-- sub menu column  -->
@@ -73,13 +73,13 @@
                                             <!-- sub menu item  -->
                                             <ul>
                                                 <li class="dropdown-header">Member Organizations</li>
-                                                <li><a href="buildtheyouth.html">Build The Youth Africa</a></li>
-                                                <li><a href="childrendignity.html">Children’s Dignity Forum</a></li>
-                                                <li><a href="kochola.html">KOCHOLA YOUTH WELFARE GROUP</a></li>
-                                                <li><a href="intergrated.html">Integrated & Sustainable </a></li>
-                                                <li><a href="joyfulsisters.html">Joyful Sisters Foundation</a></li>
-                                                <li><a href="watotomsiliye.html">WATOTO MUSILIYE FOUNDATION</a></li>
-                                                <li><a href="upendovct.html">Upendo VCT, Kenya</a></li>
+                                                <li><a href="about-us.html">Build The Youth Africa</a></li>
+                                                <li><a href="mission.html">Children’s Dignity Forum</a></li>
+                                                <li><a href="history.html">KOCHOLA YOUTH WELFARE GROUP</a></li>
+                                                <li><a href="about-us.html">Integrated & Sustainable </a></li>
+                                                <li><a href="mission.html">Joyful Sisters Foundation</a></li>
+                                                <li><a href="history.html">WATOTO MUSILIYE FOUNDATION</a></li>
+                                                <li><a href="about-us.html">Upendo VCT, Kenya</a></li>
                                             </ul>
                                             <!-- end sub menu item  -->
                                         </li>
@@ -94,10 +94,11 @@
                                                 <li><a href="governor.html">Kukimbizana Women Group </a></li>
                                                 <li><a href="text.html">Joy for Children </a></li>
                                                 <li><a href="text1.html">St. Anne Mwangaza CBO </a></li>
-                                                <li><a href="text1.html">The Mohads Foundation Inc </a></li>
+                                                <li><a href="text1.html">The Mohads Foundation Inc/a></li>
                                                 <li><a href="text1.html">Nyanza Initiative for Girls </a></li>
                                                 <li><a href="text1.html">Transform Empowerment for Action </a></li>
-                                                <li><a href="http://www.coexist.co.ke/">Coexist Initiative</a></li>
+                                                <li><a href="text1.html">Coexist Initiative</a></li>
+                                                
                                             </ul>
                                             <!-- end sub menu item  -->
                                         </li>
@@ -107,10 +108,10 @@
                                             <!-- sub menu item  -->
                                             <ul>
                                                 <li class="dropdown-header"> </li>
-                                                <li><a href="noha.html">Nomadic Heritage Aid (NOHA) </a></li>
-                                                <li><a href="karamoja.html">Karamoja Youth Empowerment Network </a></li>
-                                                <li><a href="404.html">T-GLCI</a></li>
-                                                <li><a href="http://nephak.or.ke/">NEPHAK</a></li>
+                                                <li><a href="governor.html">Nomadic Heritage Aid (NOHA) </a></li>
+                                                <li><a href="text.html">Karamoja Youth Empowerment Network </a></li>
+                                                <li><a href="text1.html">T-GLCI</a></li>
+                                                <li><a href="text1.html">NEPHAK</a></li>
                                                 <li><a href="text1.html">Kisumu Arts Ensemble</a></li>
                                                 <li><a href="text1.html">Youth Talk Afrika</a></li>
                                                 <li><a href="text1.html">Sustainable Development Trust</a></li>
@@ -197,21 +198,22 @@
             </div>
         </nav>
         <!-- end navigation panel -->
+
         <!-- head section -->
         <section class="content-top-margin page-title page-title-small border-top-light">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-sm-12 wow fadeInUp" data-wow-duration="300ms">
                         <!-- page title -->
-                        <h1 class="black-text">FAQ'S</h1>
+                        <h1 class="black-text">Contact Us</h1>
                         <!-- end page title -->
                     </div>
                     <div class="col-md-4 col-sm-12 breadcrumb text-uppercase wow fadeInUp xs-display-none" data-wow-duration="600ms">
                         <!-- breadcrumb -->
                         <ul>
-                            <li><a href="#">Home</a></li>
+                            <li><a href="index.html">Home</a></li>
                             <li><a href="#">Pages</a></li>
-                            <li>FAQ'S</li>
+                            <li>Contact Us</li>
                         </ul>
                         <!-- end breadcrumb -->
                     </div>
@@ -221,233 +223,90 @@
         <!-- end head section -->
 
         <!-- content section -->
-        <section class="wow fadeIn bg-black">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-sm-12 wow fadeInUp center-col text-center">
-                        <h1 class="white-text">Hello, how can we help you?</h1>
-                        <div class="faq-search margin-five no-margin-bottom position-relative">
-                            <input type="text" name="search" class="input-round big-input no-margin" placeholder="Search our Help Center...">
-                            <i class="fa fa-search faq-search-button"></i>
-                        </div>
+        <section class="wow fadeIn no-padding">
+            <div class="container-fuild">
+                <div class="row no-margin">
+                    <div id="canvas1" class="col-md-12 col-sm-12 no-padding contact-map map">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.8114462681556!2d34.749745114808064!3d-0.10635753550714494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182aa48f9f720f25%3A0xbd620dc72cc36fa4!2sVarsity+Plaza%2C+Kisumu!5e0!3m2!1sen!2ske!4v1465017800175" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        
                     </div>
                 </div>
             </div>
         </section>
+
         <section class="wow fadeIn">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 col-sm-12">
-                        <div class="col-md-12 col-sm-12 no-padding">
-                            <div class="margin-ten no-margin-top sm-margin-bottom-seven">
-                                <p class="text-large font-weight-600 black-text"><i class="icon-laptop small-icon vertical-align-middle"></i> Experience Design</p>
-                            </div>
-                            <div class="panel-group toggles-style3 no-border">
-                                <!-- faq item -->
-                                <div class="panel panel-default" id="collapse-one">
-                                    <div role="tablist" id="headingOne" class="panel-heading">
-                                        <a data-toggle="collapse" data-parent="#collapse-one" href="#collapse-one-link1"><h4 class="panel-title">Lorem Ipsum is simply text printing?<span class="pull-right"><i class="fa fa-plus"></i></span></h4></a>
-                                    </div>
-                                    <div id="collapse-one-link1" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end faq item -->
-                                <!-- faq item -->
-                                <div class="panel panel-default">
-                                    <div role="tablist" id="headingTwo" class="panel-heading">
-                                        <a data-toggle="collapse" data-parent="#collapse-one" href="#collapse-one-link2"><h4 class="panel-title">Lorem Ipsum is simply dummy?<span class="pull-right"><i class="fa fa-plus"></i></span></h4></a>
-                                    </div>
-                                    <div id="collapse-one-link2" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end faq item -->
-                                <!-- faq item -->
-                                <div class="panel panel-default">
-                                    <div role="tablist" id="headingThree" class="panel-heading">
-                                        <a data-toggle="collapse" data-parent="#collapse-one" href="#collapse-one-link3"><h4 class="panel-title">Lorem Ipsum is simply dummy text?<span class="pull-right"><i class="fa fa-plus"></i></span></h4></a>
-                                    </div>
-                                    <div id="collapse-one-link3" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end faq item -->
-                            </div>
-                        </div>
-                        <div class="col-md-12 col-sm-12 no-padding">
-                            <div class="margin-ten sm-margin-bottom-seven">
-                                <p class="text-large font-weight-600 black-text"><i class="icon-megaphone small-icon vertical-align-middle"></i> System Administration</p>
-                            </div>
-                            <div class="panel-group toggles-style3 no-border">
-                                <!-- faq item -->
-                                <div class="panel panel-default" id="collapse-two">
-                                    <div role="tablist" id="type1-headingOne" class="panel-heading">
-                                        <a data-toggle="collapse" data-parent="#collapse-two" href="#collapse-two-link1"><h4 class="panel-title">Lorem Ipsum is simply dummy printing?<span class="pull-right"><i class="fa fa-plus"></i></span></h4></a>
-                                    </div>
-                                    <div id="collapse-two-link1" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end faq item -->
-                                <!-- faq item -->
-                                <div class="panel panel-default">
-                                    <div role="tablist" id="type1-headingTwo" class="panel-heading">
-                                        <a data-toggle="collapse" data-parent="#collapse-two" href="#collapse-two-link2"><h4 class="panel-title">Lorem Ipsum is simply dummy?<span class="pull-right"><i class="fa fa-plus"></i></span></h4></a>
-                                    </div>
-                                    <div id="collapse-two-link2" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end faq item -->
-                                <!-- faq item -->
-                                <div class="panel panel-default">
-                                    <div role="tablist" id="type1-headingThree" class="panel-heading">
-                                        <a data-toggle="collapse" data-parent="#collapse-two" href="#collapse-two-link3"><h4 class="panel-title">Lorem Ipsum is simply dummy text?<span class="pull-right"><i class="fa fa-plus"></i></span></h4></a>
-                                    </div>
-                                    <div id="collapse-two-link3" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end faq item -->
-                                <!-- faq item -->
-                                <div class="panel panel-default">
-                                    <div role="tablist" id="type1-headingFour" class="panel-heading">
-                                        <a data-toggle="collapse" data-parent="#collapse-two" href="#collapse-two-link4"><h4 class="panel-title">Lorem Ipsum is simply?<span class="pull-right"><i class="fa fa-plus"></i></span></h4></a>
-                                    </div>
-                                    <div id="collapse-two-link4" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end faq item -->
-                            </div>
-                        </div>
+                    <!-- office address -->
+                    <div class="col-md-4 col-sm-4 xs-margin-bottom-ten">
+                        <div class="position-relative"><img src="http://placehold.it/800x416" alt=""/><a class="highlight-button-dark btn btn-very-small view-map no-margin bg-black white-text" href="https://www.google.co.in/maps" target="_blank">View Map</a></div>
+                        <p class="text-med black-text letter-spacing-1 margin-ten no-margin-bottom text-uppercase font-weight-600 xs-margin-top-five">Kisumu - Head Office</p>
+                        <p>Varsity Plaza 1st Floor<br> Kisumu-Kenya .</p>
+                        <div class="wide-separator-line bg-mid-gray no-margin-lr"></div>
+                        <p class="black-text no-margin-bottom"><strong>T.</strong> (+254)723697497</p>
+                        <p class="black-text"><strong>E.</strong> <a href="mailto:info@childrights-ea.org">info@childrights-ea.org</a></p>
                     </div>
-                    <div class="col-md-5 col-sm-12 col-md-offset-1">
-                        <div class="col-md-12 col-sm-12 no-padding">
-                            <div class="margin-ten no-margin-top sm-margin-top-ten sm-margin-bottom-seven">
-                                <p class="text-large font-weight-600 black-text"><i class="icon-hotairballoon small-icon vertical-align-middle"></i> System Administration</p>
-                            </div>
-                            <div class="panel-group toggles-style3 no-border">
-                                <!-- faq item -->
-                                <div class="panel panel-default" id="collapse-three">
-                                    <div role="tablist" id="type2-headingOne" class="panel-heading">
-                                        <a data-toggle="collapse" data-parent="#collapse-three" href="#collapse-three-link1"><h4 class="panel-title">Lorem Ipsum is simply dummy printing?<span class="pull-right"><i class="fa fa-plus"></i></span></h4></a>
-                                    </div>
-                                    <div id="collapse-three-link1" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end faq item -->
-                                <!-- faq item -->
-                                <div class="panel panel-default">
-                                    <div role="tablist" id="type2-headingTwo" class="panel-heading">
-                                        <a data-toggle="collapse" data-parent="#collapse-three" href="#collapse-three-link2"><h4 class="panel-title">Lorem Ipsum is simply dummy?<span class="pull-right"><i class="fa fa-plus"></i></span></h4></a>
-                                    </div>
-                                    <div id="collapse-three-link2" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end faq item -->
-                                <!-- faq item -->
-                                <div class="panel panel-default">
-                                    <div role="tablist" id="type2-headingThree" class="panel-heading">
-                                        <a data-toggle="collapse" data-parent="#collapse-three" href="#collapse-three-link3"><h4 class="panel-title">Lorem Ipsum is simply dummy text?<span class="pull-right"><i class="fa fa-plus"></i></span></h4></a>
-                                    </div>
-                                    <div id="collapse-three-link3" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end faq item -->
-                                <!-- faq item -->
-                                <div class="panel panel-default">
-                                    <div role="tablist" id="type2-headingFour" class="panel-heading">
-                                        <a data-toggle="collapse" data-parent="#collapse-three" href="#collapse-three-link4"><h4 class="panel-title">Lorem Ipsum is simply?<span class="pull-right"><i class="fa fa-plus"></i></span></h4></a>
-                                    </div>
-                                    <div id="collapse-three-link4" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end faq item -->
-                                <!-- faq item -->
-                                <div class="panel panel-default">
-                                    <div role="tablist" id="type2-headingFive" class="panel-heading">
-                                        <a data-toggle="collapse" data-parent="#collapse-three" href="#collapse-three-link5"><h4 class="panel-title">Lorem Ipsum is simply dummy printing?<span class="pull-right"><i class="fa fa-plus"></i></span></h4></a>
-                                    </div>
-                                    <div id="collapse-three-link5" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end faq item -->
-                                <!-- faq item -->
-                                <div class="panel panel-default">
-                                    <div role="tablist" id="type2-headingSix" class="panel-heading">
-                                        <a data-toggle="collapse" data-parent="#collapse-three" href="#collapse-three-link6"><h4 class="panel-title">Lorem Ipsum is simply dummy?<span class="pull-right"><i class="fa fa-plus"></i></span></h4></a>
-                                    </div>
-                                    <div id="collapse-three-link6" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end faq item -->
-                                <!-- faq item -->
-                                <div class="panel panel-default">
-                                    <div role="tablist" id="type2-headingSeven" class="panel-heading">
-                                        <a data-toggle="collapse" data-parent="#collapse-three" href="#collapse-three-link7"><h4 class="panel-title">Lorem Ipsum is simply dummy text?<span class="pull-right"><i class="fa fa-plus"></i></span></h4></a>
-                                    </div>
-                                    <div id="collapse-three-link7" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end faq item -->
-                                <!-- faq item -->
-                                <div class="panel panel-default">
-                                    <div role="tablist" id="type2-headingEight" class="panel-heading">
-                                        <a data-toggle="collapse" data-parent="#collapse-three" href="#collapse-three-link8"><h4 class="panel-title">Lorem Ipsum is simply dummy text?<span class="pull-right"><i class="fa fa-plus"></i></span></h4></a>
-                                    </div>
-                                    <div id="collapse-three-link8" class="panel-collapse collapse">
-                                        <div class="panel-body">
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end faq item -->
-                            </div>
-                        </div>
+                    <!-- end office address -->
+                    <!-- office address -->
+                    <div class="col-md-4 col-sm-4 xs-margin-bottom-ten">
+                        <div class="position-relative"><img src="http://placehold.it/800x416" alt=""/><a class="highlight-button-dark btn btn-very-small view-map no-margin bg-black white-text" href="https://www.google.co.in/maps" target="_blank">View Map</a></div>
+                        <p class="text-med black-text letter-spacing-1 margin-ten no-margin-bottom text-uppercase font-weight-600 xs-margin-top-five">Kampala - Office</p>
+                        <p><br> </p>
+                        <div class="wide-separator-line bg-mid-gray no-margin-lr"></div>
+                        <p class="black-text no-margin-bottom"><strong>T.</strong> 123 456 7890</p>
+                        <p class="black-text"><strong>E.</strong> <a href="mailto:info@childrights-ea.org">info@childrights-ea.org</a></p>
+                    </div>
+                    <!-- end office address -->
+                    <!-- office address -->
+                    <div class="col-md-4 col-sm-4">
+                        <div class="position-relative"><img src="http://placehold.it/800x416" alt=""/><a class="highlight-button-dark btn btn-very-small view-map no-margin bg-black white-text" href="https://www.google.co.in/maps" target="_blank">View Map</a></div>
+                        <p class="text-med black-text letter-spacing-1 margin-ten no-margin-bottom text-uppercase font-weight-600 xs-margin-top-five">Tanzania - Office</p>
+                        <p><br> </p>
+                        <div class="wide-separator-line bg-mid-gray no-margin-lr"></div>
+                        <p class="black-text no-margin-bottom"><strong>T.</strong> 123 456 7890</p>
+                        <p class="black-text"><strong>E.</strong> <a href="mailto:info@childrights-ea.org">info@childrights-ea.org</a></p>
+                    </div>
+                    <!-- end office address -->
+                </div>
+            </div>
+        </section>
+
+        <section class="wow fadeIn cover-background" style="background-image:url('http://placehold.it/1902x974');">
+            <div class="opacity-medium bg-dark-gray"></div>
+            <div class="container position-relative">
+                <div class="row">
+                    <div class="col-md-5 col-sm-6 center-col text-center">
+                        <p class="title-large text-uppercase letter-spacing-1 white-text font-weight-600">Let's work together on your next project</p>
+                        <a class="btn-small-white btn btn-medium inner-link" href="#contact-form">Request a free quote</a>
                     </div>
                 </div>
             </div>
         </section>
+
+        <section id="contact-form" class="wow fadeIn">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 col-sm-6">
+                        <p class="text-med text-uppercase letter-spacing-1 black-text font-weight-600">Contact Form</p>
+                        <p class="text-med">Please fill in the form to your righ to keepin touch with us. Your feed back is very important to us</p>
+                        <p class="text-med">we will get back to you shortly</p>
+                    </div>
+                    <div class="col-md-6 col-sm-6  col-md-offset-2">
+                        <form id="contactusform" action="javascript:void(0)" method="post">
+                            <div id="success" class="no-margin-lr"></div>
+                            <input name="name" type="text" placeholder="Your Name" />
+                            <input name="email" type="text" placeholder="Your Email"  />
+                            <textarea placeholder="Your Message" name="comment"></textarea>
+                            <button id="contact-us-button" type="submit" class="highlight-button-dark btn btn-small button xs-margin-bottom-five">Send message</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!-- end content section -->
 
-<!-- footer -->
+               <!-- footer -->
         <footer>
             <div class=" bg-white footer-top">
                 <div class="container">

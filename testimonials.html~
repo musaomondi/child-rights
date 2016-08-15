@@ -1,11 +1,11 @@
 <!doctype html>
 <html class="no-js" lang="en">
     <head>
-        <title>Home | East Africa Child Rights Trust Network (EACR)</title>
+        <title>Testimonials | East Africa Child Rights Trust Network (EACR)</title>
         <meta name="description" content="East Africa Child Rights Trust Network (EACR)">
         <meta name="keywords" content="">
         <meta charset="utf-8">
-        <meta name="author" content="MUSA" >
+        <meta name="author" content="Dianga Michael">
         <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
         <!-- favicon -->
         <link rel="shortcut icon" href="images/favicon.png">
@@ -56,16 +56,55 @@
                         <div class="navbar-collapse collapse">
                             <ul id="accordion" class="nav navbar-nav navbar-right panel-group">
                                 <!-- menu item -->
-                                <li><a href="index.html">Home<i class="fa fa-angle-down"></i></a>
+                                <li class="dropdown panel">
+                                    <a href="#collapse1" class="dropdown-toggle collapsed" data-toggle="collapse" data-parent="#accordion" data-hover="dropdown">Home <i class="fa fa-angle-down"></i></a>
+                                    <!-- sub menu -->
+                                    <ul id="collapse1" class="dropdown-menu mega-menu panel-collapse collapse mega-menu-full">
+                                        <!-- sub menu column  -->
+                                        <li class="mega-menu-column col-sm-3">
+                                            <!-- sub menu item  -->
+                                            <ul>
+                                                <li class="dropdown-header">Introduction</li>
+                                                <li><a href="about-us.html">About Us</a></li>
+                                                <li><a href="team-members.html">Team Members</a></li>
+                                                <li><a href="testimonials.html">Testimonials</a></li>
+                                                <li><a href="our-clients.html">Our Clients</a></li>
+                                                <li><a href="careers.html">Careers</a></li>
+                                                <li><a href="contact-us.html">Contact Us</a></li>
+                                                <li><a href="sitemap.html">Sitemap</a></li>
+                                                
+                                            </ul>
+                                            <!-- end sub menu item  -->
+                                           </li>
                                     
-                                <!-- end menu item -->
-                                <!-- menu item -->
-                                <li><a href="about-us.html">About Us<i class="fa fa-angle-down"></i></a>
-                                    
+
+                                        <!-- end sub menu column  -->
+                                        <!-- sub menu column  -->
+                                        <li class="mega-menu-column col-sm-3">
+                                            <!-- sub menu item  -->
+                                            <ul>
+                                                <li class="dropdown-header">Utility</li>
+                                                <li><a href="services.html">Services</a></li>
+                                                <li><a href="faq.html">FAQ'S</a></li>
+                                                <li><a href="login.html">Login</a></li>
+                                                <li><a href="register.html">Register</a></li>
+                                                <li><a href="404.html">Not Found (404)</a></li>
+                                                <li><a href="maintenance.html">Maintenance Page</a></li>
+                                                <li><a href="home-countdown-timer.html">Under Construction</a></li>
+                                                
+                                            </ul>
+                                            <!-- end sub menu item  -->
+                                        </li>
+                                        <!-- end sub menu column  -->
+                                        <!-- sub menu column  -->
+                                        
+                                    </ul>
+                                    <!-- end sub menu -->
+                                </li>
                                 <!-- end menu item -->
                                 <!-- menu item -->
                                 <li class="dropdown panel">
-                                    <a href="#collapse4" class="dropdown-toggle collapsed" data-toggle="collapse" data-parent="#accordion" data-hover="dropdown">E.A.C.R Members <i class="fa fa-angle-down"></i></a>
+                                    <a href="#collapse4" class="dropdown-toggle collapsed" data-toggle="collapse" data-parent="#accordion" data-hover="dropdown">E.A.C.R.N Members <i class="fa fa-angle-down"></i></a>
                                     <!-- sub menu -->
                                     <ul id="collapse5" class="dropdown-menu mega-menu panel-collapse collapse mega-menu-full">
                                         <!-- sub menu column  -->
@@ -73,13 +112,13 @@
                                             <!-- sub menu item  -->
                                             <ul>
                                                 <li class="dropdown-header">Member Organizations</li>
-                                                <li><a href="buildtheyouth.html">Build The Youth Africa</a></li>
-                                                <li><a href="childrendignity.html">Children’s Dignity Forum</a></li>
-                                                <li><a href="kochola.html">KOCHOLA YOUTH WELFARE GROUP</a></li>
-                                                <li><a href="intergrated.html">Integrated & Sustainable </a></li>
-                                                <li><a href="joyfulsisters.html">Joyful Sisters Foundation</a></li>
-                                                <li><a href="watotomsiliye.html">WATOTO MUSILIYE FOUNDATION</a></li>
-                                                <li><a href="upendovct.html">Upendo VCT, Kenya</a></li>
+                                                <li><a href="about-us.html">Build The Youth Africa</a></li>
+                                                <li><a href="mission.html">Children’s Dignity Forum</a></li>
+                                                <li><a href="history.html">KOCHOLA YOUTH WELFARE GROUP</a></li>
+                                                <li><a href="about-us.html">Integrated & Sustainable </a></li>
+                                                <li><a href="mission.html">Joyful Sisters Foundation</a></li>
+                                                <li><a href="history.html">WATOTO MUSILIYE FOUNDATION</a></li>
+                                                <li><a href="about-us.html">Upendo VCT, Kenya</a></li>
                                             </ul>
                                             <!-- end sub menu item  -->
                                         </li>
@@ -94,10 +133,11 @@
                                                 <li><a href="governor.html">Kukimbizana Women Group </a></li>
                                                 <li><a href="text.html">Joy for Children </a></li>
                                                 <li><a href="text1.html">St. Anne Mwangaza CBO </a></li>
-                                                <li><a href="text1.html">The Mohads Foundation Inc </a></li>
+                                                <li><a href="text1.html">The Mohads Foundation Inc/a></li>
                                                 <li><a href="text1.html">Nyanza Initiative for Girls </a></li>
                                                 <li><a href="text1.html">Transform Empowerment for Action </a></li>
-                                                <li><a href="http://www.coexist.co.ke/">Coexist Initiative</a></li>
+                                                <li><a href="text1.html">Coexist Initiative</a></li>
+                                                
                                             </ul>
                                             <!-- end sub menu item  -->
                                         </li>
@@ -107,10 +147,10 @@
                                             <!-- sub menu item  -->
                                             <ul>
                                                 <li class="dropdown-header"> </li>
-                                                <li><a href="noha.html">Nomadic Heritage Aid (NOHA) </a></li>
-                                                <li><a href="karamoja.html">Karamoja Youth Empowerment Network </a></li>
-                                                <li><a href="404.html">T-GLCI</a></li>
-                                                <li><a href="http://nephak.or.ke/">NEPHAK</a></li>
+                                                <li><a href="governor.html">Nomadic Heritage Aid (NOHA) </a></li>
+                                                <li><a href="text.html">Karamoja Youth Empowerment Network </a></li>
+                                                <li><a href="text1.html">T-GLCI</a></li>
+                                                <li><a href="text1.html">NEPHAK</a></li>
                                                 <li><a href="text1.html">Kisumu Arts Ensemble</a></li>
                                                 <li><a href="text1.html">Youth Talk Afrika</a></li>
                                                 <li><a href="text1.html">Sustainable Development Trust</a></li>
@@ -139,51 +179,79 @@
                                 <!-- end menu item -->
                                 <!-- menu item -->
                                 <li class="dropdown panel simple-dropdown">
-                                    <a href="#collapse7" class="dropdown-toggle collapsed" data-toggle="collapse" data-parent="#accordion" data-hover="dropdown">More<i class="fa fa-angle-down"></i></a>
+                                    <a href="#collapse7" class="dropdown-toggle collapsed" data-toggle="collapse" data-parent="#accordion" data-hover="dropdown">Media Center <i class="fa fa-angle-down"></i></a>
                                     <!-- sub menu single -->
                                     <!-- sub menu item  -->
                                     <ul id="collapse5" class="dropdown-menu panel-collapse collapse" role="menu">
                                         
                                             <!-- sub menu item  -->
                                             <ul>
-                                                <li class="dropdown-header">Services</li>
-                                                <li><a href="services.html">Advocacy</a></li>
-                                            
+                                                <li class="dropdown-header">Gallery</li>
+                                                <li><a href="portfolio-grid-2columns.html">Picture Gallery</a></li>
+                                                <li><a href="portfolio-grid-3columns.html">Video Gallery</a></li>
                                                                                     
                                             </ul>
                                             <!-- end sub menu item  -->
                                             
                                             <!-- sub menu item  -->
                                             <ul>
-                                                <li class="dropdown-header">Careers</li>
-                                                <li><a href="careers.html">Vaccancies</a></li>
-                                                <li><a href="careers.html">Internships</a></li>
-                                                <li><a href="register.html">Registration </a></li>
-                                            
+                                                <li class="dropdown-header">Downloads</li>
+                                                <li><a href="portfolio-grid-2columns.html">E.A.C.R.N Profile</a></li>
+                                                <li><a href="portfolio-grid-2columns.html">Reports</a></li>
+                                                <li><a href="portfolio-grid-3columns.html">Registration Forms</a></li>
+                                                <li><a href="portfolio-grid-3columns.html">News Letter</a></li>
                                                                                                 
                                                                                     
                                             </ul>
                                             <!-- end sub menu item  -->
+                                        
+                                        
+                                       
+                                       
+                                    </ul>
+                                    <!-- end sub menu -->
+                                </li>
+                                <!-- end menu item -->
+                                <!-- menu item -->
+                                <li class="dropdown panel simple-dropdown">
+                                    <a href="#collapse7" class="dropdown-toggle collapsed" data-toggle="collapse" data-parent="#accordion" data-hover="dropdown">Careers<i class="fa fa-angle-down"></i></a>
+                                    <!-- sub menu -->
+                                    <ul id="collapse7" class="dropdown-menu panel-collapse collapse" role="menu">
+                                        <li class="mega-menu-column col-sm-3">
                                             <!-- sub menu item  -->
                                             <ul>
-                                                <li class="dropdown-header">Downloads</li>
-                                                <li><a href="publications/EACR_SUMMAY_PROFILE.pdf">Company Profile</a></li>
-                                                <li><a href="publications/REPORT_OF_EACR_MEMBERS_MEETING_KISUMU_11TH_DEC_2015.pdf">Minutes AGM</a></li>
-                                                             
+                                                <li class="dropdown-header">Vacancies</li>
+                                                <li><a href="construction.html">Job Opportunities</a></li>
+                                                <li><a href="construction.html">Attachment Opportunities</a></li>
+                                                <li><a href="internships.html">Internship Opportunities </a></li>
+
                                             </ul>
                                             <!-- end sub menu item  -->
                                         </li>
-                                        <!-- end sub menu column  -->
                                         
                                     </ul>
                                     <!-- end sub menu -->
                                 </li>
                                 <!-- end menu item -->
                                 <!-- menu item -->
-                                  <li><a href="gallery.html">Gallery<i class="fa fa-angle-down"></i></a>
-                                
+                                <li class="dropdown panel simple-dropdown">
+                                    <a href="#collapse7" class="dropdown-toggle collapsed" data-toggle="collapse" data-parent="#accordion" data-hover="dropdown">News & Events <i class="fa fa-angle-down"></i></a>
+                                    <!-- sub menu single -->
+                                    <!-- sub menu item  -->
+                                    <ul id="collapse7" class="dropdown-menu panel-collapse collapse" role="menu">
+                                        <li class="dropdown-header">News & Events</li>
+                                        <li><a href="shop-checkout.html">Latest News</a></li>
+                                        <li><a href="home-shop.html">Upcomming event</a></li>
+                                        <li><a href="blog.html">Blog</a></li>
+                                        
+                                        
+                                    </ul>
+                                    <!-- end sub menu item  -->
+                                    <!-- end sub menu single -->
+                                </li>
+                                <!-- end menu item -->
                                 <!-- menu item -->
-                                <li><a href="contact-us.html">Contact Us<i class="fa fa-angle-down"></i></a>
+                                <li><a href="shop-checkout.html">Contact Us<i class="fa fa-angle-down"></i></a>
                                     
                                 </li>
                                 <!-- end menu item -->
@@ -197,14 +265,13 @@
             </div>
         </nav>
         <!-- end navigation panel -->
-
         <!-- head section -->
-        <section class="content-top-margin page-title page-title-small border-top-light border-bottom-light">
+        <section class="content-top-margin page-title page-title-small border-top-light">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-sm-12 wow fadeInUp" data-wow-duration="300ms">
                         <!-- page title -->
-                        <h1 class="black-text">Sitemap</h1>
+                        <h1 class="black-text">Testimonials</h1>
                         <!-- end page title -->
                     </div>
                     <div class="col-md-4 col-sm-12 breadcrumb text-uppercase wow fadeInUp xs-display-none" data-wow-duration="600ms">
@@ -212,7 +279,7 @@
                         <ul>
                             <li><a href="#">Home</a></li>
                             <li><a href="#">Pages</a></li>
-                            <li>Sitemap</li>
+                            <li>Testimonials</li>
                         </ul>
                         <!-- end breadcrumb -->
                     </div>
@@ -221,137 +288,108 @@
         </section>
         <!-- end head section -->
 
-        <!-- content section -->
-        <section class="wow fadeIn">
+        <!-- content section --> 
+        <section id="slider" class="wow fadeIn fix-background" style="background-image:url('http://placehold.it/1920x1100');">
+            <div class="opacity-full bg-dark-gray"></div>
             <div class="container">
                 <div class="row">
-                    <div class="col-md-3 col-sm-6">
-                        <p class="black-text sitemap-title">Home</p>
-                        <ul class="sitemap">
-                            <li>Pre Made Homepage
-                                <ul>
-                                    <li><a href="index.html">Home main</a></li>
-                                    <li><a href="home-fashion.html">Home fashion</a></li>
-                                    <li><a href="home-architecture.html">Home architecture</a></li>
-                                    <li><a href="home-spa.html">Home spa</a></li>
-                                    <li><a href="home-agency.html">Home agency</a></li>
-                                    <li><a href="home-restaurant.html">Home restaurant</a></li>
-                                    <li><a href="home-travel-agency.html">Home travel agency</a></li>
-                                    <li><a href="home-corporate.html">Home corporate</a></li>
-                                    <li><a href="home-photography.html">Home photography</a></li>
-                                    
-                                    <li><a href="home-shop.html">Home shop</a></li>
-                                    <li><a href="home-blog.html">Home blog</a></li>
-                                    <li><a href="home-blog-grid.html">Home blog grid</a></li>
-                                </ul>
-                            </li>
-                            <li class="no-border"><a href="about-us.html">Other</a>
-                                <ul>
-                                    <li><a href="home-masonry-portfolio.html">Home - masonry portfolio</a></li>
-                                    <li><a href="home-background-slider.html">Home - background slider</a></li>
-                                    <li><a href="home-full-screen-video.html">Home - full screen video</a></li>
-                                    <li><a href="home-half-screen-video.html">Home - half screen video</a></li>
-                                    <li><a href="home-text-rotator.html">Home - text rotator</a></li>
-                                    <li><a href="home-countdown-timer.html">Home - coming soon</a></li>
-                                    <li><a href="home-countdown-timer-video.html">Home - coming soon (video)</a></li>
-                                    <li><a href="home-full-width-image.html">Home - full width image</a></li>
-                                    <li><a href="home-gradient-with-image.html">Home - gradient with image</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <p class="black-text sitemap-title">Pages</p>
-                        <ul class="sitemap">
-                            <li>Introduction
-                                <ul>
-                                    <li><a href="about-us.html">About Us</a></li>
-                                    <li><a href="team-members.html">Team Members</a></li>
-                                    <li><a href="testimonials.html">Testimonials</a></li>
-                                    <li><a href="our-clients.html">Our Clients</a></li>
-                                    <li><a href="careers.html">Careers</a></li>
-                                    <li><a href="contact-us.html">Contact Us</a></li>
-                                    <li><a href="sitemap.html">Sitemap</a></li>
-                                </ul>
-                            </li>
-                            <li class="no-border"><a href="about-us.html">Utility</a>
-                                <ul>
-                                    <li><a href="services.html">Services</a></li>
-                                    <li><a href="faq.html">FAQ'S</a></li>
-                                    <li><a href="login.html">Login</a></li>
-                                    <li><a href="register.html">Register</a></li>                                                
-                                    <li><a href="404.html">Not Found (404)</a></li>
-                                    <li><a href="maintenance.html">Maintenance Page</a></li>
-                                    <li><a href="home-countdown-timer.html">Under Construction</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                        <p class="black-text sitemap-title">Parallax Image / Typography</p>
-                        <ul class="sitemap">
-                            <li><a href="home-parallax1.html">Parallax Image - option 1 </a></li>
-                            <li><a href="home-parallax2.html">Parallax Image - option 2</a></li>
-                            <li><a href="home-parallax3.html">Parallax Image - option 3 </a></li>
-                            <li><a href="home-parallax4.html">Parallax Image - option 4</a></li>
-                            <li><a href="home-parallax5.html">Parallax Image - option 5</a></li>
-                            <li class="no-border"><a href="home-parallax.html">Full parallax home page</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <p class="black-text sitemap-title">Portfolio</p>
-                        <ul class="sitemap">
-                            <li>Portfolio - Single Project
-                                <ul>
-                                    <li><a href="single-project-page1.html">Single Project Page 1</a></li>
-                                    <li><a href="single-project-page2.html">Single Project Page 2</a></li>
-                                    <li><a href="single-project-page3.html">Single Project Page 3</a></li>
-                                    <li><a href="single-project-page4.html">Single Project Page 4</a></li>
-                                    <li><a href="single-project-page5.html">Single Project Page 5</a></li>
-                                </ul>
-                            </li>
-                            <li class="no-border"><a href="about-us.html">Ajax Portfolio - Single Project</a>
-                                <ul>
-                                    <li><a href="onepage-single-project-page1.html">Single Project Page 1</a></li>
-                                    <li><a href="onepage-single-project-page2.html">Single Project Page 2</a></li>
-                                    <li><a href="onepage-single-project-page3.html">Single Project Page 3</a></li>
-                                    <li><a href="onepage-single-project-page4.html">Single Project Page 4</a></li>
-                                    <li><a href="onepage-single-project-page5.html">Single Project Page 5</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                        <p class="black-text sitemap-title">Creative Intro Pages</p>
-                        <ul class="sitemap">
-                            <li><a href="intro-fashion.html">Fashion Intro</a></li>
-                            <li><a href="intro-restaurant.html">Restaurant Intro</a></li>
-                            <li><a href="intro-fashion.html">Fashion Intro</a></li>
-                            <li><a href="intro-travel.html">Travel Intro</a></li>
-                            <li><a href="intro-travel2.html">Travel Intro - V2</a></li>
-                            <li><a href="intro-restaurant.html">Restaurant Intro</a></li>
-                            <li class="no-border"><a href="intro-product.html">Product Intro</a></li>
-                        </ul>
-
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <p class="black-text sitemap-title">Elements</p>
-                        <ul class="sitemap">
-                            <li><a href="accordions.html">Accordions</a></li>
-                            <li><a href="progress-bar.html">Progress Bar</a></li>
-                            <li><a href="buttons.html">Buttons</a></li>
-                            <li><a href="features-box.html">Features Box</a></li>
-                            <li><a href="form.html">Form</a></li>
-                            <li><a href="grid.html">Grid</a></li>
-                            <li><a href="icons-et-line.html">Icons Et-line</a></li>
-                            <li><a href="icons-font-awesome.html">Icons Font Awesome</a></li>
-                            <li><a href="alert-massage.html">Alert massage</a></li>
-                            <li><a href="tabs.html">Tabs</a></li>
-                            <li><a href="typography.html">Typography</a></li>
-                            <li><a href="video-sound.html">Video / Sound</a></li>
-                            <li class="no-border"><a href="counter-and-skills.html">Counter and Skills</a></li>
-                        </ul>
+                    <div id="owl-demo" class="col-xs-12 owl-carousel owl-theme light-pagination bottom-pagination dark-pagination-without-next-prev-arrow position-relative">
+                        <!-- testimonials item -->
+                        <div class="item">
+                            <div class="col-md-5 col-sm-8 no-padding testimonial-style2 center-col text-center margin-three no-margin-top">
+                                <img src="http://placehold.it/300x300" alt=""/>
+                                <p class="white-text text-med">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <span class="name white-text text-med">John Carmack - Google</span>
+                            </div>
+                        </div>
+                        <!-- end testimonials item -->
+                        <!-- testimonials item -->
+                        <div class="item">
+                            <div class="col-md-5 col-sm-8 no-padding testimonial-style2 center-col text-center margin-three no-margin-top">
+                                <img src="http://placehold.it/300x300" alt=""/>
+                                <p class="white-text text-med">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <span class="name white-text text-med">Dallas Groot - Facebook</span>
+                            </div>
+                        </div>
+                        <!-- end testimonials item -->
+                        <!-- testimonials item -->
+                        <div class="item">
+                            <div class="col-md-5 col-sm-8 no-padding testimonial-style2 center-col text-center margin-three no-margin-top">
+                                <img src="http://placehold.it/300x300" alt=""/>
+                                <p class="white-text text-med">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <span class="name white-text text-med">Adario Strange - Apple</span>
+                            </div>
+                        </div>
+                        <!-- end testimonials item -->
                     </div>
                 </div>
             </div>
         </section>
-
+        <section class="wow fadeIn">
+            <div class="container">
+                <div class="row">
+                    <!-- testimonials item -->
+                    <div class="col-md-4 col-sm-6 testimonial-style2 text-center wow fadeInUp margin-ten no-margin-top">
+                        <img src="http://placehold.it/300x300" alt=""/>
+                        <p class="center-col width-90">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
+                        <span class="name black-text">Alexander Harvard - Google</span>
+                        <i class="fa fa-quote-left small-icon yellow-text display-block margin-five no-margin-bottom"></i>
+                    </div>
+                    <!-- end testimonials item -->
+                    <!-- testimonials item -->
+                    <div class="col-md-4 col-sm-6 testimonial-style2 text-center wow fadeInUp margin-ten no-margin-top">
+                        <img src="http://placehold.it/300x300" alt=""/>
+                        <p class="center-col width-90">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
+                        <span class="name black-text">Herman Miller - Apple</span>
+                        <i class="fa fa-quote-left small-icon yellow-text display-block margin-five no-margin-bottom"></i>
+                    </div>
+                    <!-- end testimonials item -->
+                    <!-- testimonials item -->
+                    <div class="col-md-4 col-sm-6 testimonial-style2 text-center wow fadeInUp margin-ten no-margin-top">
+                        <img src="http://placehold.it/300x300" alt=""/>
+                        <p class="center-col width-90">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
+                        <span class="name black-text">Bryan Jonhson - Yahoo</span>
+                        <i class="fa fa-quote-left small-icon yellow-text display-block margin-five no-margin-bottom"></i>
+                    </div>
+                    <!-- end testimonials item -->
+                    <!-- testimonials item -->
+                    <div class="col-md-4 col-sm-6 testimonial-style2 text-center wow fadeInUp sm-margin-bottom-ten">
+                        <img src="http://placehold.it/300x300" alt=""/>
+                        <p class="center-col width-90">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
+                        <span class="name black-text">Jeremy Dupont - Apple</span>
+                        <i class="fa fa-quote-left small-icon yellow-text display-block margin-five no-margin-bottom"></i>
+                    </div>
+                    <!-- end testimonials item -->
+                    <!-- testimonials item -->
+                    <div class="col-md-4 col-sm-6 testimonial-style2 text-center wow fadeInUp xs-margin-bottom-ten">
+                        <img src="http://placehold.it/300x300" alt=""/>
+                        <p class="center-col width-90">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
+                        <span class="name black-text">Steve Anders - Facebook</span>
+                        <i class="fa fa-quote-left small-icon yellow-text display-block margin-five no-margin-bottom"></i>
+                    </div>
+                    <!-- end testimonials item -->
+                    <!-- testimonials item -->
+                    <div class="col-md-4 col-sm-6 testimonial-style2 text-center wow fadeInUp">
+                        <img src="http://placehold.it/300x300" alt=""/>
+                        <p class="center-col width-90">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
+                        <span class="name black-text">Bryan Johnson - Apple</span>
+                        <i class="fa fa-quote-left small-icon yellow-text display-block margin-five no-margin-bottom"></i>
+                    </div>
+                    <!-- end testimonials item -->
+                </div>
+            </div>
+        </section>
+        <section class="wow fadeIn cover-background" style="background-image:url('http://placehold.it/2200x1200');">
+            <div class="opacity-medium bg-dark-gray"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-5 col-sm-8 center-col text-center position-relative">
+                        <p class="title-med text-uppercase letter-spacing-1 white-text font-weight-600 wow bounceIn">Over 1500<br> Happy clients worldwide</p>
+                        <p class="text-large margin-ten no-margin-bottom light-gray-text wow fadeInUp">We're fortunate to work with fantastic clients from across the globe in over 11 countries on design, branding, and development projects.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
         <!-- end content section -->
 
         <!-- footer -->
@@ -456,15 +494,15 @@
                         <!-- end copyright -->
                         <!-- logo -->
                         <div class="col-md-6 col-sm-6 col-xs-12 footer-logo text-right xs-text-center">
-                            <a href="index.html"><img src="images/logo-light-gray.png" alt="" /></a>
+                            <a href="index.html"><img src="images/logo-light-gray.png" alt=""/></a>
                         </div>
                         <!-- end logo -->
                     </div>
                 </div>
             </div>
-            <!-- scroll to top -->
-            <a href="javascript:;" class="scrollToTop"><i class="fa fa-angle-up"></i></a>
-            <!-- scroll to top End... -->
+            <!-- scroll to top --> 
+            <a href="javascript:;" class="scrollToTop"><i class="fa fa-angle-up"></i></a> 
+            <!-- scroll to top End... --> 
         </footer>
         <!-- end footer -->
 
